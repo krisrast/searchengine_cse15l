@@ -58,6 +58,10 @@
         }
     }
 
+> ![Image](za.png)
+
+> ![Image](zb.png)
+
 ## Part 2
 
 > ![Image](sshthing.png)
