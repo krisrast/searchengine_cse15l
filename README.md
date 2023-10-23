@@ -1,5 +1,6 @@
 # Lab Report
 
+## Part 1
     import java.io.IOException;
     import java.net.URI;
     import java.util.ArrayList;
@@ -57,4 +58,10 @@
         }
     }
 
+## Part 2
 
+
+
+## Part 3
+
+In these last two weeks, I have learned how to ssh into remote machines and start server using that machine. I also have now learned that the sites that I can create can use the URL as commands and how to use these items in the url to make the server do a certain task.
