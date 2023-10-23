@@ -39,7 +39,7 @@ class ServerHttpHandler implements HttpHandler {
     }
 }
 
-public class Server {
+public class StringServer {
     public static void start(int port, URLHandler handler) throws IOException {
         HttpServer server = HttpServer.create(new InetSocketAddress(port), 0);
 
