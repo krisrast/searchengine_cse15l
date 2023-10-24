@@ -29,7 +29,7 @@ class Handler implements URLHandler {
                     return tempstring; 
                 }
         } else {
-            if (url.getPath().contains("/add")) {
+            if (url.getPath().contains("/add-message")) {
                 String[] parameters = url.getQuery().split("=");
                 if (parameters[0].equals("s")) {
                     searchlist.add(parameters[1]);
