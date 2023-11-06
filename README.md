@@ -65,6 +65,7 @@
 ## Part 2
 
 > ![Image](sshthing.png)
+> id_rsa is the private key.
 
 >  ![Image](keypath.png)
 
