@@ -59,8 +59,10 @@
     }
 
 > ![Image](za.png)
+> In this screenshot, the method called is the handleRequest method and the relevent arguments are the parts of the URL that follow the first slash. The add-message portion is used by if-else checkers to see what should be done with the query of the URL. The query portion tell the method to add the string following "s=" to the code; in this case, it is "hello." The only relevant field impacted by this is the searchlist list which tracks all of the strings that have been added.
 
 > ![Image](zb.png)
+> In this screenshot, the method called is the handleRequest method and the relevent arguments are the parts of the URL that follow the first slash. The add-message portion is used by if-else checkers to see what should be done with the query of the URL. The query portion tell the method to add the string following "s=" to the code; in this case, it is "1154." The only relevant field impacted by this is the searchlist list which tracks all of the strings that have been added.
 
 ## Part 2
 
